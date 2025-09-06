@@ -18,6 +18,9 @@ sudo apt install ufw
 
 Make sure you have internet access and correct DNS servers configured, and launch the `block-microsoft.sh` script :
 
+```bash
+./block-microsoft.sh
+```
 
 ## License
 
